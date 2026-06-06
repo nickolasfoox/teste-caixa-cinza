@@ -19,3 +19,6 @@
 <img width="1861" height="840" alt="Captura de tela 2026-06-03 042631" src="https://github.com/user-attachments/assets/cbefaf4f-c26e-4dad-8b74-c9fd1c962ac6" />
 <img width="1859" height="842" alt="Captura de tela 2026-06-03 042356" src="https://github.com/user-attachments/assets/b935e15d-36f7-4226-a012-f4a2ff1931e2" />
 <img width="1826" height="877" alt="Captura de tela 2026-06-03 042111" src="https://github.com/user-attachments/assets/b4064e1e-9039-47d8-a9d8-3a6bda410c5c" />
+
+
+
