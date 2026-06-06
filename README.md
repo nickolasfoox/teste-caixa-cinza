@@ -1,5 +1,13 @@
 # teste-caixa-cinza
 
+relatorio 
+
+no supabase foi criado o projeto 
+criado usuario e senha
+no postman foi configurado todas as informações
+testes com usuarios e senhas incorretos ou vazios
+teste com as informações corretas.
+
 <img width="1418" height="891" alt="Captura de tela 2026-06-05 205952" src="https://github.com/user-attachments/assets/5431c42c-71b9-4db9-a21c-b6520f791a82" />
 <img width="1421" height="908" alt="Captura de tela 2026-06-05 205827" src="https://github.com/user-attachments/assets/3f6022bd-765f-4c1d-b7ec-ee8f2cadb4ff" />
 <img width="1425" height="904" alt="Captura de tela 2026-06-05 205549" src="https://github.com/user-attachments/assets/6e1e3fcc-4f6f-4763-8acf-318d78f8b57f" />
